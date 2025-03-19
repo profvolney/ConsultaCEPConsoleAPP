@@ -1,0 +1,17 @@
+/home/jvs/Desktop/ConsumirAPIViaCEP/bin/Debug/net9.0/ConsumirAPIViaCEP
+/home/jvs/Desktop/ConsumirAPIViaCEP/bin/Debug/net9.0/ConsumirAPIViaCEP.deps.json
+/home/jvs/Desktop/ConsumirAPIViaCEP/bin/Debug/net9.0/ConsumirAPIViaCEP.runtimeconfig.json
+/home/jvs/Desktop/ConsumirAPIViaCEP/bin/Debug/net9.0/ConsumirAPIViaCEP.dll
+/home/jvs/Desktop/ConsumirAPIViaCEP/bin/Debug/net9.0/ConsumirAPIViaCEP.pdb
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.AssemblyInfoInputs.cache
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.AssemblyInfo.cs
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.csproj.CoreCompileInputs.cache
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.dll
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/refint/ConsumirAPIViaCEP.dll
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.pdb
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.genruntimeconfig.cache
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ref/ConsumirAPIViaCEP.dll
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/ConsumirAPIViaCEP.csproj.AssemblyReference.cache
+/home/jvs/Desktop/ConsumirAPIViaCEP/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/jvs/Desktop/ConsumirAPIViaCEP/obj/Debug/net9.0/Consumir.2C749828.Up2Date
